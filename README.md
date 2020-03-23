@@ -5,6 +5,7 @@
 > :books: Desafios de programação
 ###### Aqui estão todos os desafios:
 - [Desafio #01](https://github.com/coffeebr/desafios/tree/master/Desafio%2001)
+- [Desafio #02](https://github.com/coffeebr/desafios/tree/master/Desafio%2002)
 
 # Como fazer os desafios
 
@@ -16,3 +17,4 @@
 # Completados
 
 - [ ] Desafio #01
+- [ ] Desafio #02
