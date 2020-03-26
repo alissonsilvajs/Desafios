@@ -6,6 +6,7 @@
 ###### Aqui estão todos os desafios:
 - [Desafio #01](https://github.com/coffeebr/desafios/tree/master/Desafio%2001)
 - [Desafio #02](https://github.com/coffeebr/desafios/tree/master/Desafio%2002)
+- [Desafio #03](https://github.com/coffeebr/desafios/tree/master/Desafio%2003)
 
 # Como fazer os desafios
 
@@ -18,3 +19,4 @@
 
 - [ ] Desafio #01
 - [ ] Desafio #02
+- [ ] Desafio #03
